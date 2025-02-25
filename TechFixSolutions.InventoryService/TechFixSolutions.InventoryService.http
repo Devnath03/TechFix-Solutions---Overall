@@ -1,0 +1,6 @@
+@TechFixSolutions.InventoryService_HostAddress = http://localhost:5099
+
+GET {{TechFixSolutions.InventoryService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

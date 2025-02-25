@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TechFixSolutions.QuotationService\\TechFixSolutions.QuotationService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechFixSolutions.OrderService\\TechFixSolutions.OrderService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechFixSolutions.InventoryService\\TechFixSolutions.InventoryService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

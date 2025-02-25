@@ -1,0 +1,95 @@
+.quotation-form-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1); /* Light transparency for glass effect */
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1),
+                inset 0 1px 2px rgba(255, 255, 255, 0.05),
+                0 0 12px rgba(255, 255, 255, 0.1); /* Light glow */
+    backdrop-filter: blur(15px); /* Strong blur for glass effect */
+    position: relative;
+}
+
+.quotation-form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: inherit; /* Inherits color from parent */
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.quotation-form {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.quotation-form .form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.quotation-form .form-label {
+    font-weight: 500;
+    color: inherit; /* Inherits color from parent */
+}
+
+.quotation-form .form-control {
+    background: rgba(255, 255, 255, 0.1); /* Light background for glass effect */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
+    color: inherit; /* Inherits color from parent */
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.quotation-form .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.5); /* Placeholder text */
+}
+
+.quotation-form .form-control:focus {
+    border-color: rgba(255, 255, 255, 0.3); /* Focus border */
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.1); /* Subtle glow on focus */
+    background: rgba(255, 255, 255, 0.15); /* Slightly brighter background */
+}
+
+.quotation-form .submit-btn {
+    background: rgba(255, 255, 255, 0.1); /* Glass-like button */
+    color: inherit; /* Inherits color from parent */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    grid-column: 1 / -1;
+    backdrop-filter: blur(5px); /* Blur effect for button */
+}
+
+.quotation-form .submit-btn:hover {
+    background: rgba(255, 255, 255, 0.2); /* Brighter on hover */
+    box-shadow: 0 2px 12px rgba(255, 255, 255, 0.1); /* Subtle glow on hover */
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: transparent;
+    border: none;
+    color: inherit; /* Inherits color from parent */
+    font-size: 24px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.close-btn:hover {
+    color: rgba(255, 255, 255, 0.9); /* Slightly brighter on hover */
+    transform: rotate(90deg);
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.2); /* Glow effect on hover */
+}

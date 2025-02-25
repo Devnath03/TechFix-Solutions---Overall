@@ -1,0 +1,6 @@
+@TechFixSolutions.OrderService_HostAddress = http://localhost:5228
+
+GET {{TechFixSolutions.OrderService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

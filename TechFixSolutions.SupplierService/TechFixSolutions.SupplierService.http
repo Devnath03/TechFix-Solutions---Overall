@@ -1,0 +1,6 @@
+@TechFixSolutions.SupplierService_HostAddress = http://localhost:5008
+
+GET {{TechFixSolutions.SupplierService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

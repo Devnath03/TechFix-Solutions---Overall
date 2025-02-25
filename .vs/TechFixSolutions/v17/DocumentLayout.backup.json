@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|c:\\users\\user\\desktop\\icbt\\soc\\assignment project\\techfixsolutions\\techfixsolutions.supplierservice\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|solutionrelative:techfixsolutions.supplierservice\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|c:\\users\\user\\desktop\\icbt\\soc\\assignment project\\techfixsolutions\\techfixsolutions.supplierservice\\data\\suppliercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|solutionrelative:techfixsolutions.supplierservice\\data\\suppliercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|c:\\users\\user\\desktop\\icbt\\soc\\assignment project\\techfixsolutions\\techfixsolutions.supplierservice\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|solutionrelative:techfixsolutions.supplierservice\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|c:\\users\\user\\desktop\\icbt\\soc\\assignment project\\techfixsolutions\\techfixsolutions.supplierservice\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|solutionrelative:techfixsolutions.supplierservice\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|c:\\users\\user\\desktop\\icbt\\soc\\assignment project\\techfixsolutions\\techfixsolutions.supplierservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|solutionrelative:techfixsolutions.supplierservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|c:\\users\\user\\desktop\\icbt\\soc\\assignment project\\techfixsolutions\\techfixsolutions.supplierservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342695A1-7700-4228-954C-7B254C15CE63}|TechFixSolutions.SupplierService\\TechFixSolutions.SupplierService.csproj|solutionrelative:techfixsolutions.supplierservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "TechFixSolutions.SupplierService\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\Services\\SupplierService.cs",
+              "RelativeToolTip": "TechFixSolutions.SupplierService\\Services\\SupplierService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:15:24.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "TechFixSolutions.SupplierService\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "TechFixSolutions.SupplierService\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:14:53.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplierContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\Data\\SupplierContext.cs",
+              "RelativeDocumentMoniker": "TechFixSolutions.SupplierService\\Data\\SupplierContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\Data\\SupplierContext.cs",
+              "RelativeToolTip": "TechFixSolutions.SupplierService\\Data\\SupplierContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:14:49.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\appsettings.json",
+              "RelativeDocumentMoniker": "TechFixSolutions.SupplierService\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\appsettings.json",
+              "RelativeToolTip": "TechFixSolutions.SupplierService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T18:14:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\Model\\Supplier.cs",
+              "RelativeDocumentMoniker": "TechFixSolutions.SupplierService\\Model\\Supplier.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\Model\\Supplier.cs",
+              "RelativeToolTip": "TechFixSolutions.SupplierService\\Model\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:51:53.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\Program.cs",
+              "RelativeDocumentMoniker": "TechFixSolutions.SupplierService\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ICBT\\SOC\\Assignment Project\\TechFixSolutions\\TechFixSolutions.SupplierService\\Program.cs",
+              "RelativeToolTip": "TechFixSolutions.SupplierService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:04:18.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

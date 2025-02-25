@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4+IMFi7tzGymwE6siqWvJQv+7Zv9NjV5aF5HxOBB8aM=",
+  "Source": "TechFixSolutions.OrderService",
+  "BasePath": "_content/TechFixSolutions.OrderService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

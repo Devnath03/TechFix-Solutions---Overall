@@ -1,0 +1,109 @@
+/* OrderForm.css */
+
+/* Main container for the form */
+.form-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1); /* Light transparency for glass effect */
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1),
+                inset 0 1px 2px rgba(255, 255, 255, 0.05),
+                0 0 12px rgba(255, 255, 255, 0.1); /* Light glow */
+    backdrop-filter: blur(15px); /* Strong blur for glass effect */
+    position: relative;
+}
+
+/* Form title */
+.form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.9); /* Light text color */
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Form layout */
+.order-form {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+/* Form group (label + input) */
+.order-form .form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+/* Form label */
+.order-form .form-label {
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.8); /* Light label color */
+}
+
+/* Form input fields */
+.order-form .form-control {
+    background: rgba(255, 255, 255, 0.1); /* Light background for glass effect */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
+    color: rgba(255, 255, 255, 0.9); /* Light text color */
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+/* Placeholder text */
+.order-form .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.5); /* Placeholder text */
+}
+
+/* Focus state for input fields */
+.order-form .form-control:focus {
+    border-color: rgba(255, 255, 255, 0.3); /* Focus border */
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.1); /* Subtle glow on focus */
+    background: rgba(255, 255, 255, 0.15); /* Slightly brighter background */
+}
+
+/* Submit button */
+.order-form .submit-btn {
+    background: rgba(255, 255, 255, 0.1); /* Glass-like button */
+    color: rgba(255, 255, 255, 0.9); /* Light text color */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    grid-column: 1 / -1;
+    backdrop-filter: blur(5px); /* Blur effect for button */
+}
+
+/* Hover state for submit button */
+.order-form .submit-btn:hover {
+    background: rgba(255, 255, 255, 0.2); /* Brighter on hover */
+    box-shadow: 0 2px 12px rgba(255, 255, 255, 0.1); /* Subtle glow on hover */
+}
+
+/* Close button */
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: transparent;
+    border: none;
+    color: rgba(255, 255, 255, 0.7); /* Light text color */
+    font-size: 24px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Hover state for close button */
+.close-btn:hover {
+    color: rgba(255, 255, 255, 0.9); /* Slightly brighter on hover */
+    transform: rotate(90deg);
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.2); /* Glow effect on hover */
+}
