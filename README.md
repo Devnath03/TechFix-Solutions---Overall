@@ -2,20 +2,6 @@
 
 A multi-component application for managing technical repair operations, inventory, and customer interactions.
 
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Architecture Diagram](#architecture-diagram)
-- [Use Case Diagram](#use-case-diagram)
-- [Sequence Diagram](#sequence-diagram)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [License](#license)
-
----
-
 ## Overview
 
 **TechFix Solutions** aims to streamline repair service management, inventory tracking, and customer handling. It consists of a React-based client and a .NET-based backend service.
