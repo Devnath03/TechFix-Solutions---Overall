@@ -73,8 +73,4 @@ TechFix-Solutions---Overall/
 └── ...
 ```
 
----
 
-## License
-
-[MIT](LICENSE)
