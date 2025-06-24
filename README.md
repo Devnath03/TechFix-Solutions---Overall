@@ -20,24 +20,6 @@ graph TD
 
 ---
 
-## Use Case Diagram
-
-```mermaid
-usecaseDiagram
-    actor Customer
-    actor Technician
-    actor Admin
-
-    Customer --> (Request Service)
-    Customer --> (Track Repair Status)
-    Technician --> (Update Repair Progress)
-    Admin --> (Manage Inventory)
-    Admin --> (Assign Tasks)
-    Admin --> (View Reports)
-```
-
----
-
 ## Sequence Diagram
 
 ```mermaid
