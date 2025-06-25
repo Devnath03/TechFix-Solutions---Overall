@@ -19,7 +19,6 @@ graph TD
 ```
 
 ---
-
 ## Sequence Diagram
 
 ```mermaid
