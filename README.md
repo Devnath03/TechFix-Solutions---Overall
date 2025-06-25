@@ -70,7 +70,6 @@ TechFix-Solutions---Overall/
 │
 ├── techfixsolutions-client/      # React frontend
 ├── TechFixSolutions.InventoryService/  # .NET backend service
-└── ...
-```
+
 
 
