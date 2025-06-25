@@ -61,7 +61,6 @@ dotnet build
 dotnet run
 ```
 
----
 
 ## Project Structure
 
